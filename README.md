@@ -24,6 +24,8 @@
 <a href="https://github.com/Nix-code/Job-Leet-core-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nix-Code&repo=Job-Leet-core-api&theme=buefy" />
 </a>
+<br />
+<br />
 <a href="https://github.com/Nix-code/Job-Leet-core-UI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nix-Code&repo=Job-Leet-core-UI&theme=buefy" />
 
