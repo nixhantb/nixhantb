@@ -1,5 +1,4 @@
-## Hi, I am Nishant (Software Engineer)
-<p>I ❤️ writing Softwares 💻❄</p>
+## Hi, I am Nishant (Software Engineer) and a Computer Science(Hons) Data Science graduate (2019-2023)
 
 <br />
 
@@ -10,7 +9,10 @@
 
 - 💻 I am currently working on [JobLeet](https://github.com/Nix-code/Job-Leet-core-api)
 
-- ❤️ I love .Net, React, SQL , TypeScript, JavaScript
+- I love building full stack web applications
+
+** Technology I use for my daily routine
+- RabbitMQ, Jenkins, Docker, NUnit, NLog, Redis, CICD, .Net, C#, MSSQL, MYSQL, React, TypeScript, JavaScript
 
 
 | <a href="https://github.com/Nix-Code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nix-Code&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nix-Code's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nix-Code&layout=compact&theme=buefy&hide_border=true" /></a> |
