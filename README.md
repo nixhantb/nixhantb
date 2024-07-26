@@ -14,6 +14,6 @@
 - RabbitMQ, Jenkins, Docker, NUnit, NLog, Redis, CICD, .Net, C#, MSSQL, MYSQL, React, TypeScript, JavaScript
 
 **Others**
-- Selected as a SII Scholar for studying my Bachelors degree in Computer science with specializtion in Data Science with Scholarship of $36,000 for 4 year.
+- Selected as a SII Scholar for studying Bachelors degree in Computer science, specialization in Data Science with Scholarship of $36,000 for 4 year.
 - Published two research papers on Machine Learning focusing on Health care sectors for disease diagnosis.
 
