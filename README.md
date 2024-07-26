@@ -11,7 +11,7 @@
 
 - I love building secure full stack web applications and system level things from scratch to improve my coding skills (Example: Distributed Message Broker System)
   
-** Technology I use for my daily routine
+**Technology I use for my daily routine
 - RabbitMQ, Jenkins, Docker, NUnit, NLog, Redis, CICD, .Net, C#, MSSQL, MYSQL, React, TypeScript, JavaScript
 
 **Others**
