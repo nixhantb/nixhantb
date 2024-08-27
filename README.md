@@ -8,7 +8,7 @@
 
 - 💻 I am currently working on [JobLeet](https://github.com/Nix-code/Job-Leet-core-api) as a side project.
 
-- I love building secure full stack web applications and system level things from scratch to improve my coding skills (Example: Distributed Message Broker System)
+- I love building secure full stack web applications and systems from scratch to improve my coding skills (Example: Distributed Message Broker System, Database from Scratch and custom Compiler)
   
 **Technology I use for my daily routine**
 - RabbitMQ, Jenkins, Docker, NUnit, NLog, Redis, CICD, .Net, C#, MSSQL, MYSQL, React, TypeScript, JavaScript
